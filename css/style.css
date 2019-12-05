@@ -1,0 +1,26 @@
+
+body {
+    font-family: 20px Arial, Helvetica, sans-serif ;
+    
+}
+
+.navbar {
+    background-color: #298A08;
+}
+
+
+.parceiros {
+    background-color: rgb(194, 192, 192);
+    color: white;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.bg-footer {
+    background-color: #298A08;
+    color: white;
+    padding: 5px;
+}
